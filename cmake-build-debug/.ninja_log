@@ -1,0 +1,18 @@
+# ninja log v5
+1	265	7008919906064899	CMakeFiles/ejercicios_C__.dir/main.cpp.obj	7457c59c5f305549
+4	267	7008919906054921	CMakeFiles/ejercicios_C__.dir/gestionMetodos.cpp.obj	28551300cae1a437
+267	351	7008919906892509	ejercicios_C__.exe	6dc3901f6ab98e10
+1	233	7008920149182882	CMakeFiles/ejercicios_C__.dir/main.cpp.obj	7457c59c5f305549
+233	303	7008920149844559	ejercicios_C__.exe	6dc3901f6ab98e10
+2	239	7008920274550001	CMakeFiles/ejercicios_C__.dir/gestionMetodos.cpp.obj	28551300cae1a437
+240	337	7008920275377765	ejercicios_C__.exe	6dc3901f6ab98e10
+3	232	7008921116847930	CMakeFiles/ejercicios_C__.dir/gestionMetodos.cpp.obj	28551300cae1a437
+250	318	7008921117677550	ejercicios_C__.exe	6dc3901f6ab98e10
+2	240	7008921217534842	CMakeFiles/ejercicios_C__.dir/gestionMetodos.cpp.obj	28551300cae1a437
+241	311	7008921218194775	ejercicios_C__.exe	6dc3901f6ab98e10
+2	295	7008921451466260	CMakeFiles/ejercicios_C__.dir/gestionMetodos.cpp.obj	28551300cae1a437
+295	371	7008921452177163	ejercicios_C__.exe	6dc3901f6ab98e10
+2	233	7008921662712892	CMakeFiles/ejercicios_C__.dir/gestionMetodos.cpp.obj	28551300cae1a437
+234	342	7008921663695499	ejercicios_C__.exe	6dc3901f6ab98e10
+2	273	7008921853133410	CMakeFiles/ejercicios_C__.dir/main.cpp.obj	7457c59c5f305549
+274	350	7008921853865196	ejercicios_C__.exe	6dc3901f6ab98e10
